@@ -1,6 +1,6 @@
 Hello 👋
 
-I'm a Software Engineer working on Cloud, Infra and Backend
+I'm a Software Engineering Manager working on Cloud, Infra and Backend
 
 * 🏢  I work at [Eigen Technologies](https://www.eigentech.com/). Previously I was at [Big Health](https://www.bighealth.com)
 * 👨🏻‍💻  Day to day I work with Python, Django, Kubernetes, Helm, Docker, Ansible and AWS
