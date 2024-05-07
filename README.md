@@ -9,4 +9,4 @@ I'm Sam, a father, husband and software engineer.
 * 👍  I enjoy improving and automating processes to increase productivity
 * 🌱  Currently learning more about Rust
 * 🗣  My human languages are English (mother tongue), German (fluent) and Polish (mid-level)
-* 🖥️  My blog: [samatkins.me](https://samatkins.me/)
+* 🖥️  My blog: [samatkins.co](https://samatkins.co/)
